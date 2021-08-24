@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dpestilli
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently studying CS50
+- 💞️ I’m looking to collaborate on EDX courses
 - 📫 How to reach me DM me
 
 <!---
